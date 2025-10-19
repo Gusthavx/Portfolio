@@ -157,6 +157,7 @@ section div button:hover {
     border-radius: 25px;
     border: 2px solid #B33A3A;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .card a:hover {
