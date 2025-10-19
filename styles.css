@@ -15,13 +15,6 @@
     background-color: #1F1F1F;
 }
 
-@media (max-width: 768px) {
-    .caixa-principal {
-        background-position: center top;
-        background-size: cover;
-    }
-}
-
 nav {
     display: flex;
     align-items: center;
@@ -168,9 +161,7 @@ section div button:hover {
     transition: 0.8s;
 }
 
-.card-projetos {
+.box {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-right: 20px;
+    justify-content: space-between;
 }
