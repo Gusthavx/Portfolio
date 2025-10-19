@@ -115,11 +115,14 @@ section div button:hover {
 
 .projetos {
     background-color: #1F1F1F;
+    padding-top: 50px;
+    padding-bottom: 100px;
 }
 
 .projetos h2 {
     color: #F2F2F2;
     font-size: 75px;
+    text-align: center;
 }
 
 .card {
@@ -163,5 +166,6 @@ section div button:hover {
 
 .box {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    margin-top: 100px;
 }
